@@ -64,7 +64,7 @@ a:hover { color: var(--blue); }
 .essay-byline { font-family: var(--f-mono); font-size: 0.72rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); margin-top: 1.4rem; }
 
 .prose { max-width: var(--measure); }
-.prose > * + * { margin-top: 1.9rem; }
+.prose > * + * { margin-top: 2.25rem; }
 .prose p { margin: 0; }
 .prose h2 { font-family: var(--f-display); font-weight: 600; font-size: 1.6rem; line-height: 1.2; letter-spacing: -0.01em; color: var(--blue); margin: 2.8rem 0 0; }
 .prose h3 { font-family: var(--f-display); font-weight: 600; font-size: 1.25rem; color: var(--blue); margin: 2.2rem 0 0; }

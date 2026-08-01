@@ -3,6 +3,7 @@ layout: ../../layouts/Essay.astro
 title: Cash Is a Position
 dek: Holding cash is a decision with a thesis behind it, not a failure to act.
 date: 2026-08-02
+draft: true
 ---
 
 The reflex to be fully invested treats cash as an embarrassment — capital that

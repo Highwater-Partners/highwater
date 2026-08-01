@@ -16,7 +16,3 @@ own nothing than own something you cannot defend. Both are underrated.
 
 The discipline is to hold cash *on purpose* and be able to say why — not to
 drift into it because you are afraid, and not out of it because you are bored.
-
-*This second post is set to `draft: true`, so it is hidden from the homepage.
-Delete that line in the frontmatter to publish it. Use these two files as your
-template, then replace them with your own writing.*

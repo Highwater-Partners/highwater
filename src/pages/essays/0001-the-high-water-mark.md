@@ -2,7 +2,7 @@
 layout: ../../layouts/Essay.astro
 title: The High-Water Mark
 dek: Why the name, and why concentration is a discipline rather than a bet.
-date: 2026-08-01
+date: 2026-01-01
 ---
 
 A high-water mark is the line a fund has to clear before it earns anything on
@@ -20,9 +20,9 @@ to hide.
 
 Holding few things forces three commitments most investors avoid:
 
-- **A thesis you can write down.** If you cannot state, in a paragraph, what
+- **A thesis you can explain to anyone.** If you cannot state what
   has to be true for the position to work and what would prove you wrong, you
-  do not own a thesis. You own a feeling.
+  do not have a thesis.
 - **A reason the price is wrong.** A good business at a fair price is not an
   opportunity. The edge is in the gap between what the crowd has priced and
   what you can defend.

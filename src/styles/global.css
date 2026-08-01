@@ -54,7 +54,7 @@ a:hover { color: var(--blue); }
 .toc-meta { display: flex; gap: 1rem; align-items: baseline; font-family: var(--f-mono); font-size: 0.72rem; letter-spacing: 0.06em; color: var(--muted); margin-bottom: 0.5rem; }
 .toc-no { color: var(--navy); }
 .toc-title { font-family: var(--f-display); font-weight: 600; font-size: clamp(1.5rem, 4.2vw, 1.95rem); line-height: 1.16; margin: 0; letter-spacing: -0.01em; }
-.toc-title a { color: var(--ink); text-decoration: none; }
+.toc-title a { color: var(--navy); text-decoration: none; }
 .toc-title a:hover { color: var(--navy); }
 .toc-dek { margin: 0.5rem 0 0; color: var(--muted); font-size: 1.05rem; }
 
@@ -64,7 +64,7 @@ a:hover { color: var(--blue); }
 .essay-byline { font-family: var(--f-mono); font-size: 0.72rem; letter-spacing: 0.06em; text-transform: uppercase; color: var(--muted); margin-top: 1.4rem; }
 
 .prose { max-width: var(--measure); }
-.prose > * + * { margin-top: 1.35rem; }
+.prose > * + * { margin-top: 1.9rem; }
 .prose p { margin: 0; }
 .prose h2 { font-family: var(--f-display); font-weight: 600; font-size: 1.6rem; line-height: 1.2; letter-spacing: -0.01em; color: var(--blue); margin: 2.8rem 0 0; }
 .prose h3 { font-family: var(--f-display); font-weight: 600; font-size: 1.25rem; color: var(--blue); margin: 2.2rem 0 0; }

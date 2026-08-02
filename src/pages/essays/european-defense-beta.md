@@ -1,6 +1,9 @@
-# European Defense: The Alpha Is Priced In. That's the Point.
-
-*The growth is obvious, the market already knows it, and that is a reason to look closer rather than to pass.*
+---
+layout: ../../layouts/Essay.astro
+title: European Defense: The Alpha Is Priced In. That's the Point.
+dek: The growth is obvious, the market already knows it, and that is a reason to look closer rather than to pass.
+date: 2026-08-02
+---
 
 These stocks re-rated the moment NATO's spending trajectory became policy. The alpha, the gap between what careful work reveals and what the price already reflects, is mostly gone. That is usually where the value reflex says to move on.
 
